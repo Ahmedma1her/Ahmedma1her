@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Ahmed Maher  
 
-<!--
-**Ahmedma1her/Ahmedma1her** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack Developer (MERN)
 
-Here are some ideas to get you started:
+Building scalable web applications with a focus on clean architecture, performance, and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📌 Current Focus
+- Backend Architecture & System Design  
+- Building Real-World Projects  
+- Improving Problem Solving  
+
+---
+
+## 📂 Featured Projects
+🔹 Mini Headless CMS (Capstone Project)  
+🔹 More projects coming soon...  
+
+---
+
+## 📊 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+
+---
+
+⭐ Always learning, always building
