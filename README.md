@@ -28,7 +28,7 @@ Building scalable web applications with a focus on clean architecture, performan
 ---
 
 ## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedma1her&show_icons=true)
+![Ahmed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmedma1her&show_icons=true)
 
 ---
 
